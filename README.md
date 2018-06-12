@@ -12,7 +12,7 @@ I just use dedicated traffic dataset to train yolov2 model and develop an intera
 
 ---
 #### Vehicle Counting demo
-![]<div align=center>(data/detect_video.gif "vehicle_counting")
+![](data/detect_video.gif "vehicle_counting")
 
 ---
 #### Every one can download the pre-trained model. ( google drive works )
