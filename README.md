@@ -6,6 +6,11 @@ I just use dedicated traffic dataset to train yolov2 model and develop an intera
 
 
 ---
+#### Detector GUI (written by tkinter)
+![](data/play_video.gif "normal_video")
+
+
+---
 #### Vehicle Counting demo
 ![](data/detect_video.gif "vehicle_counting")
 
