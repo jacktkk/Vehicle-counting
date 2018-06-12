@@ -4,6 +4,12 @@ Convert from https://github.com/marvis/pytorch-yolo2.
 I just use dedicated traffic dataset to train yolov2 model and develop an interactive interface for visualizing vehicle statistical results. The trained model can count the type and quantity of vehicles that have travelled in a given area over a period of time. 
 
 
+
+
+---
+#### Every one can download the pre-trained model. ( google drive works )
+[Click here](https://drive.google.com/open?id=1MjrgOgujWzOerFUqrcstJtDNaTBRgAbO)
+
 ---
 #### Detection Using A Pre-Trained Model
 ```
